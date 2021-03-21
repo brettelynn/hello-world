@@ -1,2 +1,3 @@
 # hello-world
-my first repository
+My first repository.
+New to programming, here to learn.
